@@ -1,5 +1,5 @@
 # python-calculator
-A simple GUI Python Calculator using Tkinter
+A simple GUI Python Calculator using the tkinter library (`from tkinter import *`)
 
 ## Features:
 - 269 x 360 size
